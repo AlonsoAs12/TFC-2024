@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Machu Picchu",
+    "city": "Cusco",
+    "address": "Cerca de Aguas Calientes",
+    "distance": 300,
+    "price": 150,
+    "maxGroupSize": 15,
+    "desc": "Machu Picchu es una antigua ciudad inca en lo alto de los Andes peruanos.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Valle de Colca",
+    "city": "Arequipa",
+    "address": "Cerca del Mirador de la Cruz del Cóndor",
+    "distance": 400,
+    "price": 120,
+    "maxGroupSize": 12,
+    "desc": "El Valle de Colca es conocido por su impresionante cañón y la observación de cóndores.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Líneas de Nazca",
+    "city": "Nazca",
+    "address": "A lo largo de la Pampa de San José",
+    "distance": 200,
+    "price": 80,
+    "maxGroupSize": 8,
+    "desc": "Las Líneas de Nazca son geoglifos misteriosos que representan diversas formas y animales.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Islas Ballestas",
+    "city": "Paracas",
+    "address": "Frente a la costa de Paracas",
+    "distance": 150,
+    "price": 90,
+    "maxGroupSize": 10,
+    "desc": "Las Islas Ballestas albergan una gran cantidad de vida marina, incluyendo leones marinos y aves.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Lago Titicaca",
+    "city": "Puno",
+    "address": "En la frontera entre Perú y Bolivia",
+    "distance": 600,
+    "price": 180,
+    "maxGroupSize": 20,
+    "desc": "El Lago Titicaca es el lago navegable más alto del mundo y está lleno de historia y cultura.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Río Amazonas",
+    "city": "Iquitos",
+    "address": "A lo largo de la selva amazónica",
+    "distance": 800,
+    "price": 200,
+    "maxGroupSize": 25,
+    "desc": "El Río Amazonas es el río más caudaloso y alberga una increíble diversidad de flora y fauna.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Parque Nacional Huascarán",
+    "city": "Huaraz",
+    "address": "En la Cordillera Blanca",
+    "distance": 350,
+    "price": 130,
+    "maxGroupSize": 15,
+    "desc": "El Parque Nacional de Huascarán es hogar de majestuosas montañas y glaciares.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Montañas de Colores",
+    "city": "Cusco",
+    "address": "Cerca de Vinicunca",
+    "distance": 250,
+    "price": 110,
+    "maxGroupSize": 12,
+    "desc": "Las Montañas de Colores, o Vinicunca, exhiben una impresionante paleta de colores en su paisaje.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  }
+]
